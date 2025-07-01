@@ -1,0 +1,24 @@
+# Benvenuto su SimpleNet
+
+Esempio di lista numerata:
+
+1. Primo punto
+2. Secondo punto
+
+Esempio di lista puntata:
+* Voce uno
+* Voce due
+
+Citazione:
+> Questo è un testo citato.
+
+Blocco codice:
+```
+print("ciao")
+```
+
+Link interni:
+=> giorgio.net/about Scopri di più
+
+Link esterno:
+Visita [OpenAI](https://openai.com)
