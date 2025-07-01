@@ -1,0 +1,70 @@
+2025-07-01 20:36:52,876 - INFO - DNS ricaricato: 2 domini
+2025-07-01 20:36:52,877 - INFO - 🛰  Server SimpleNet avviato su 127.0.0.1:5555
+2025-07-01 20:36:52,877 - INFO - 📁 Directory pagine: /home/cristian/simplenet/pages
+2025-07-01 20:36:52,877 - INFO - 🌐 Domini caricati: 2
+2025-07-01 20:37:29,788 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:37:29,788 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:37:54,338 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:37:54,339 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:39:28,249 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:39:28,251 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:39:55,175 - INFO - 🌐 127.0.0.1 richiede: giorgio.net/about
+2025-07-01 20:39:55,176 - INFO - Servita pagina: giorgio.net/about -> pages/giorgio.net/about.smd
+2025-07-01 20:40:01,800 - INFO - 🌐 127.0.0.1 richiede: giorgio.net/about
+2025-07-01 20:40:01,801 - INFO - Servita pagina: giorgio.net/about -> pages/giorgio.net/about.smd
+2025-07-01 20:40:13,558 - INFO - 🌐 127.0.0.1 richiede: giorgio.net/about
+2025-07-01 20:40:13,559 - INFO - Servita pagina: giorgio.net/about -> pages/giorgio.net/about.smd
+2025-07-01 20:40:16,258 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:40:16,259 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:40:37,694 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:40:37,695 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:40:42,652 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:40:42,653 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:40:51,147 - INFO - 🌐 127.0.0.1 richiede: alice.org
+2025-07-01 20:40:51,148 - INFO - Pagina non trovata: alice.org
+2025-07-01 20:40:54,554 - INFO - 🌐 127.0.0.1 richiede: alice.org
+2025-07-01 20:40:54,555 - INFO - Pagina non trovata: alice.org
+2025-07-01 20:41:05,355 - INFO - 🌐 127.0.0.1 richiede: lucia.org
+2025-07-01 20:41:05,356 - INFO - Servita pagina: lucia.org -> pages/lucia.org/home.smd
+2025-07-01 20:41:17,966 - INFO - 🌐 127.0.0.1 richiede: lucia.org
+2025-07-01 20:41:17,968 - INFO - Servita pagina: lucia.org -> pages/lucia.org/home.smd
+2025-07-01 20:41:37,920 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:41:37,922 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:41:54,771 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:41:54,772 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:41:56,880 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:41:56,881 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:42:21,677 - INFO - 🌐 127.0.0.1 richiede: bm
+2025-07-01 20:42:21,678 - INFO - Pagina non trovata: bm
+2025-07-01 20:42:29,191 - INFO - 🌐 127.0.0.1 richiede: lucia.org
+2025-07-01 20:42:29,192 - INFO - Servita pagina: lucia.org -> pages/lucia.org/home.smd
+2025-07-01 20:45:15,426 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:45:15,427 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:45:17,777 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:45:17,778 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:45:42,649 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:45:42,650 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:45:50,969 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:45:50,970 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:45:53,613 - INFO - 🌐 127.0.0.1 richiede: giorgio.net/about
+2025-07-01 20:45:53,614 - INFO - Servita pagina: giorgio.net/about -> pages/giorgio.net/about.smd
+2025-07-01 20:45:57,589 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:45:57,590 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:45:58,669 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:45:58,670 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:45:59,471 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:45:59,473 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:46:00,691 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:46:00,692 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:46:01,268 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:46:01,268 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:46:01,621 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:46:01,622 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:46:01,930 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:46:01,931 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:46:02,219 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:46:02,221 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:46:02,510 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:46:02,511 - INFO - Servita pagina: default -> pages/default/home.smd
+2025-07-01 20:46:02,999 - INFO - 🌐 127.0.0.1 richiede: default
+2025-07-01 20:46:03,000 - INFO - Servita pagina: default -> pages/default/home.smd
