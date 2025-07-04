@@ -44,7 +44,7 @@ class SimpleNetResponse:
         return (header + self.content).encode('utf-8')
 
 class SimpleNetServer:
-    def __init__(self, host='127.0.0.1', port=5555, max_connections=10):
+    def __init__(self, host='0.0.0.0', port=5555, max_connections=10):
         self.host = host
         self.port = port
         self.max_connections = max_connections

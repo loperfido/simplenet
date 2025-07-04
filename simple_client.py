@@ -8,7 +8,7 @@ from typing import List, Optional, Tuple
 from enum import Enum
 
 # Configurazione
-HOST = '127.0.0.1'
+HOST = '0.0.0.0'
 PORT = 5555
 BOOKMARKS_FILE = "bookmarks.json"
 HISTORY_FILE = "history.json"
